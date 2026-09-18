@@ -1,3 +1,76 @@
+Starter Guide – Data Insights & Performance Review (2025–2026)
+Welcome to the Data Insights & Performance Review (2025–2026) repository. This guide is designed to help new visitors, collaborators, and reviewers understand how the project is structured, how to navigate the files, and how to get the most value from the insights included.
+
+Whether you’re a recruiter, hiring manager, analyst, or someone exploring data projects, this starter guide gives you a clear overview of what’s inside and how everything fits together.
+
+📁 What’s Inside This Repository
+This repo contains a curated collection of analytical projects covering customer behaviour, operational performance, product engagement, marketing effectiveness, organisational risk, and business intelligence. The portfolio includes:
+
+Seven evidence‑based reports (2025–2026)
+
+Four supporting BI projects from previous years
+
+Power BI dashboards, SQL work, DAX measures, and narrative reports
+
+A mix of PDF reports, analytical write‑ups, and visual‑hypothesis updates
+
+Each file is designed to be easy to read, visually clear, and grounded in real‑world analytical thinking.
+
+📘 How to Navigate the Repository
+To make your experience smooth, here’s how the repo is organised:
+
+1. Main Portfolio (2025–2026)
+These are the flagship reports demonstrating end‑to‑end analysis across multiple domains. Start here if you want to see the most recent and advanced work.
+
+2. Supporting BI Projects
+Older but still valuable projects showcasing SQL, Power BI, DAX, and dashboard storytelling. These demonstrate growth, consistency, and technical range.
+
+3. Special Reports
+Includes the Customer & Revenue Risk Analysis Report, which provides scenario modelling and risk forecasting.
+
+4. Documentation Files
+README
+
+Starter Guide
+
+Portfolio Overview
+These help you understand the purpose, structure, and value of the work.
+
+🛠 Tools & Technologies Used
+This repository uses a combination of industry‑standard tools:
+
+SQL
+
+Power BI
+
+Excel
+
+Tableau
+
+Python
+
+DAX
+
+Power Query
+
+Power Pivot
+
+These tools support data extraction, modelling, visualisation, forecasting, and insight generation.
+
+🎯 Purpose of the Projects
+The projects in this repository are designed to:
+
+Demonstrate end‑to‑end analytical capability
+
+Show how data supports collaboration across teams
+
+Provide clear, actionable insights in plain language
+
+Highlight business impact, not just technical outputs
+
+Reflect real‑world reporting standards used in digital, operational, and commercial environments
+
+Give recruiters and hiring managers a transparent view of analytical thinking, communication style, and problem‑solving ability
 Data Insights & Performance Review (2025–2026)
 This repository brings together a curated collection of analytical projects designed to demonstrate collaborative, evidence‑based problem‑solving across customer behaviour, operational performance, product engagement, marketing effectiveness, organisational risk, and business intelligence. The portfolio reflects how data analysis supports teams, strengthens decision‑making, and drives measurable improvements across different business domains.
 
